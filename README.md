@@ -29,7 +29,7 @@ An exploratory and statistical analysis of over 349,000 e-commerce user sessions
 - **Statistical Testing:** Utilized the D'Agostino-Pearson test for normality and Spearman's rank correlation coefficient (0.865) to confirm a statistically significant positive relationship between session volume and total sales.
 - **Strategic Recommendations:** Formulated actionable business advice regarding assortment optimization for top-performing categories and geographic marketing expansion into promising regions like India and Canada.
 
-**Tech Stack:** `Python` (`Pandas`, `Matplotlib`, `Seaborn`, `SciPy`), `SQL` (Google BigQuery).
+**Tech Stack:** `Python` (`Pandas`, `Matplotlib`, `Seaborn`, `SciPy`), `SQL` (Google BigQuery), `Tableau`.
 
 ---
 
