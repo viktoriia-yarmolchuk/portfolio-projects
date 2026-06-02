@@ -31,6 +31,8 @@ An exploratory and statistical analysis of over 349,000 e-commerce user sessions
 
 **Tech Stack:** `Python` (`Pandas`, `Matplotlib`, `Seaborn`, `SciPy`), `SQL` (Google BigQuery).
 
+---
+
 ### 3. [Global Retail Sales & Profitability Analysis](https://github.com/viktoriia-yarmolchuk/portfolio-projects/blob/main/global_retail_sales_analysis.ipynb)
 **Description:**
 This project focuses on a comprehensive Exploratory Data Analysis (EDA) of global retail transactions across 45 countries spanning from 2010 to 2017. The primary objective is to evaluate product profitability, assess regional market performance, compare offline and online sales channels, and analyze supply chain efficiency through order delivery times.
@@ -43,5 +45,3 @@ This project focuses on a comprehensive Exploratory Data Analysis (EDA) of globa
 - **Trend Dynamics:** Investigated year-over-year sales and profit trajectories, highlighting significant shifts in consumer demand, such as a 125% growth in the Vegetables category compared to a 50% decline in Cereal sales between 2010 and 2016.
 
 **Tech Stack:** `Python` (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`).
-
----
