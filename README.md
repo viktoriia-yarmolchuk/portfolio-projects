@@ -30,3 +30,18 @@ An exploratory and statistical analysis of over 349,000 e-commerce user sessions
 - **Strategic Recommendations:** Formulated actionable business advice regarding assortment optimization for top-performing categories and geographic marketing expansion into promising regions like India and Canada.
 
 **Tech Stack:** `Python` (`Pandas`, `Matplotlib`, `Seaborn`, `SciPy`), `SQL` (Google BigQuery).
+
+### 3. [Global Retail Sales & Profitability Analysis](https://github.com/viktoriia-yarmolchuk/portfolio-projects/blob/main/global_retail_sales_analysis.ipynb)
+**Description:**
+This project focuses on a comprehensive Exploratory Data Analysis (EDA) of global retail transactions across 45 countries spanning from 2010 to 2017. The primary objective is to evaluate product profitability, assess regional market performance, compare offline and online sales channels, and analyze supply chain efficiency through order delivery times.
+
+**Key Steps and Tasks:**
+- **Data Cleaning & Feature Engineering:** Merged multiple datasets (sales events, products, countries), handled missing values and anomalous country codes (e.g., Namibia 'NA'), corrected data types, and calculated new metrics such as profit and delivery time.
+- **Profitability Analysis:** Evaluated revenue and profit by product category, identifying Cosmetics as the most profitable segment (over $92.7 million) despite Office Supplies and Beverages leading in total units sold.
+- **Geographic & Channel Performance:** Mapped profit distribution across global regions, pinpointing Europe (specifically Southern Europe) as the dominant market contributing 94.7% of total profit, and compared the relatively even split between Offline (50.6%) and Online (49.4%) sales channels.
+- **Logistics Evaluation:** Analyzed order fulfillment efficiency by calculating average and median delivery times across product types and regions, and statistically verified that there is no direct correlation between delivery speed and final profit.
+- **Trend Dynamics:** Investigated year-over-year sales and profit trajectories, highlighting significant shifts in consumer demand, such as a 125% growth in the Vegetables category compared to a 50% decline in Cereal sales between 2010 and 2016.
+
+**Tech Stack:** `Python` (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`).
+
+---
